@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Muhammad" content="Actividad 13">
+    <title>Página de ejemplo</title>
+	<link rel="stylesheet" href="./css/estilos.css">
+</head>
+<body>
+
+    <header>
+        <h1>Encabezado</h1>
+        <nav>
+            <a href="color">Enlace 1</a>
+            <a href="color">Enlace 2</a>
+            <a href="color">Enlace 3</a>
+        </nav>
+    </header>
+
+    <section class="main-section">
+        <h2>Sección Principal</h2>
+        <article>
+            <h3>Artículo 1</h3>
+            <p>Contenido del artículo 1.</p>
+        </article>
+        <article>
+            <h3>Artículo 2</h3>
+            <p>Contenido del artículo 2.</p>
+        </article>
+    </section>
+
+    <footer>
+        <p>Pie de página</p>
+    </footer>
+
+</body>
+</html>

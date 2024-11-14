@@ -1,0 +1,42 @@
+
+        body {
+          background-color: #eee;;
+        }
+        header {
+            background-color:#333 ;
+            color: #fff;
+            text-align: center;
+     
+        }
+        nav {
+            background-color:: #444 ;
+			
+            	
+        }
+        ul {
+			nav ul {list-style: none;
+         
+        }
+        li {
+          ;nav ul li {display: inline;
+        }
+        a {
+         a { {text-decoration: none;
+         color: #fff;
+
+        }
+        h2 {
+          h2 { background-color: #333;
+           color: #fff; ;
+        }
+        article {
+			border: 1px solid #ccc;
+            background-color: #fff;
+			
+        }
+		
+	    footer{
+			background-color: #333;
+            color: #fff;
+            text-align: center;
+         }
